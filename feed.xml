@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>JoeyChor&#39;s Website</title>
+    <description>Random articles about random topics</description>
+    <link>http://joeychor.me</link>
+    <atom:link href="http://joeychor.me/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>Sticking with the existing projects!</title>
+        <description>&lt;p&gt;I decided that instead of making a whole new website, I stick with something that many people have access to—a program called Jekyll.&lt;/p&gt;
+
+&lt;p&gt;It’s really useful for starting up a blog quickly. Luckily, Jekyll doesn’t use any dynamic webpages, so it can be hosted anywhere that accepts HTML pages.&lt;/p&gt;
+
+&lt;p&gt;Unfortunately, I also want to make money, and a way that I had planned was to use a URL shortener to their webservers, much like adf.ly. But until I get used to this Jekyll, all links linked are going to be direct.&lt;/p&gt;
+
+&lt;p&gt;Feel free to donate &lt;a href=&quot;http://joeychor.me/donate.html&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sat, 02 May 2015 00:00:00 -0700</pubDate>
+        <link>http://joeychor.me/Stick-To-Existing-Projects/</link>
+        <guid isPermaLink="true">http://joeychor.me/Stick-To-Existing-Projects/</guid>
+      </item>
+    
+      <item>
+        <title>Donations</title>
+        <description>&lt;p&gt;If you want to donate, I have 6 cryptocurrency addresses.&lt;/p&gt;
+
+&lt;p&gt;Bitcoin: 1BURX86JJrzGm9irf5e3bpabxTaMxbS1pZ&lt;/p&gt;
+
+&lt;p&gt;Litecoin: LKcNFAys2CSidSzMytpbgAePyvuyq6iQmJ&lt;/p&gt;
+
+&lt;p&gt;Dogecoin: DR4bebgD9EdAnJ3iPSAACZkUaRA61Acwgg&lt;/p&gt;
+
+&lt;p&gt;Clam: xL2LvuTzD5fpdDRnpQ6s5xewYL9awPy71R&lt;/p&gt;
+
+&lt;p&gt;Dash: XiLWDVUBEtxxDQ1e4XSshwhUmt9e4byvxM&lt;/p&gt;
+
+&lt;p&gt;Vericoin: VAje8dPrXDZKgw23dJpX86KPDHVJmNgMMU&lt;/p&gt;
+
+&lt;p&gt;Any donation is appreciated.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 02 May 2015 00:00:00 -0700</pubDate>
+        <link>http://joeychor.me/donate.html</link>
+        <guid isPermaLink="true">http://joeychor.me/donate.html</guid>
+      </item>
+    
+  </channel>
+</rss>
