@@ -7,6 +7,44 @@
     <atom:link href="http://joeychor.me/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>Triple A Games&amp;#58; Why it&#39;s bad</title>
+        <description>&lt;p&gt;If you ever played “Triple A” or AAA games, you find that it’s usually better quality than games that aren’t.
+However, really any game can be labeled as “Triple A.”
+This lack of regulation of what a “Triple A” game is bad.&lt;/p&gt;
+
+&lt;p&gt;The first reason that this is bad is because there is simply no regulation. Consider an SSL certificate (if you do not know what an SSL
+certificate is, it is used to encrypt your content from hackers over the Internet). On your system, there is a list of certificates to
+trust. If you connect to, let us say a bank, and the bank’s certificate is a trusted one, everything goes on normally. If it is not, the
+Internet browser would normally terminate the session because it is not trusted. A limited number of people can give out certificates.
+If everyone could have their own certificates, then any malicious user can say that their to be trusted. This tricks you into trusting
+security with them.&lt;/p&gt;
+
+&lt;p&gt;The second reason why it is bad is because it is defined by a community rather than an organization. Large gaming communities like IGN and GameSpot,
+control what is a “Triple A” game. A part of these communities genuinely believe that a game really deserves a “Triple A” title.
+There have been multiple reports on IGN(&lt;a href=&quot;http://www.zeldainformer.com/news/former-ign-employee-admits-review-scores-are-skewed-due-to-public-relations&quot;&gt;1&lt;/a&gt;,
+&lt;a href=&quot;http://www.p4rgaming.com/ex-ign-employee-leaks-list-of-review-scores-for-games-that-arent-even-close-to-release-like-gta-v/&quot;&gt;2&lt;/a&gt;, &lt;a href=&quot;http://www.screwattack.com/news/ex-ign-employee-admits-reviews-were-swayed-money&quot;&gt;3&lt;/a&gt;) and GameSpot (&lt;a href=&quot;http://www.tomshardware.com/forum/34016-13-gamespot-biased&quot;&gt;1&lt;/a&gt;, 
+&lt;a href=&quot;http://www.gamespot.com/articles/what-games-console-should-i-buy/1100-6423839/&quot;&gt;2&lt;/a&gt;, &lt;a href=&quot;http://www.psu.com/forums/showthread.php/101455-A-Hard-Look-At-Gamespot-(Bias-in-Review-Scores-Comparison)&quot;&gt;3&lt;/a&gt;) where they either are payed to vote
+positively or just side on one console and switch to another. Even then, they think that the “Triple A” games are now useless (&lt;a href=&quot;http://www.ign.com/articles/2012/07/30/are-aaa-hardcore-games-doomed&quot;&gt;IGN&lt;/a&gt; and &lt;a href=&quot;http://www.gamespot.com/videos/the-point-how-content-is-killing-aaa-games/2300-6423625/&quot;&gt;GameSpot&lt;/a&gt;).&lt;/p&gt;
+
+&lt;p&gt;The last reason why it is bad is because of simple psychology. If someone has an original game with different game mechanics, you might get that.
+However, if someone else has a same game with same game mechanics, but labeled as “Triple A,” you will get that because of two reasons:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;It is a game with same mechanics as the predecessors. You already know how to play the game, and jump right into it.&lt;/li&gt;
+  &lt;li&gt;Does not “Triple A” sound good? It is because of the school system almost everywhere—an “A” score is very good, so imagine it being three
+times as good.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;While now you may think that is silly, it sneaks up behind you when you don’t have this article in mind.&lt;/p&gt;
+
+&lt;p&gt;To conclude, a “Triple A” game is bad because there is no regulation, defined by a community, and is controlled by psychology.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 04 May 2015 00:00:00 -0700</pubDate>
+        <link>http://joeychor.me/Triple-A-Games/</link>
+        <guid isPermaLink="true">http://joeychor.me/Triple-A-Games/</guid>
+      </item>
+    
+      <item>
         <title>Sticking with the existing projects!</title>
         <description>&lt;p&gt;I decided that instead of making a whole new website, I stick with something that many people have access to—a program called Jekyll.&lt;/p&gt;
 
